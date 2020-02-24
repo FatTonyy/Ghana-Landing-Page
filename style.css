@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lobster|Roboto&display=swap");
 /* font-family: 'Lobster', ; */
 
 * {
@@ -9,7 +9,7 @@
 
 html {
   font-size: 10px;
-  font-family: cursive;
+  font-family: "Roboto";
 }
 
 body {
